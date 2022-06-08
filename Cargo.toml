@@ -1,6 +1,6 @@
 [package]
 name = "dldir"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Naqua Darazaki <n.darazaki@gmail.com>"]
 edition = "2018"
 description = "Download a directory over HTTP(S)"
